@@ -1,7 +1,8 @@
 # Products-site
 JS - LocalStorage 
 
-this's under Development .In addition , this project for education So you will see a lot of Comments AS(get uniqe id there two way ...etc)
+-this's under Development .In addition , this project for education So you will see a lot of Comments AS(get uniqe id there two way ...etc)
+-it is still not responsive (Just for Laptopn Screen)
 
 -Add to Cart 
 -Remove from Cart
